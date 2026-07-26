@@ -1,0 +1,12 @@
+{
+  "name": "wsserver",
+  "version": "1.0.0",
+  "description": "WebSocket server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
